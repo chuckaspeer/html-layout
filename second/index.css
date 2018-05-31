@@ -1,0 +1,116 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+
+
+
+body{
+    background-color: white;
+    padding: 25px;
+}
+
+.solid-border{
+    width: 100%;
+    border: 5px solid black;
+    margin: 10px;
+    box-sizing: border-box;
+    
+}
+.purple-rec {
+width: 50px;
+height: 150px;
+background-color: purple;
+display: inline-block;
+margin:10px;
+}
+.green-rec {
+display: inline-block;
+height: 200px;
+width: 400px;
+background-color: green;
+margin: 20px;
+
+}
+.blue-cir{
+    
+        height: 200px;
+        width: 200px;
+        background-color: rgb(75, 152, 241);
+        border-radius: 85%;
+        display: inline-block;
+        margin: 15px;
+      
+}
+.dotted-line {
+    width: 100%;
+    border: 5px dotted black;
+    margin: 10px;
+    box-sizing: border-box;
+}
+    .yellow-rec {
+        display: inline-block;
+        height: 150px;
+        width: 85%;
+        background-color: rgb(233, 225, 112);
+        margin: 20px;
+        box-shadow: 5px 10px gray;
+    }
+
+    .post-card{
+        height: 200px;
+        width: 50%;
+        border: 1px solid gray;
+        background-color: rgb(255, 255, 255);
+        margin: auto;
+        box-shadow: 5px 5px grey;
+    }
+    .hi{
+        color: rgb(9, 9, 87);
+        text-align: center;
+        margin: 80px auto;
+        font-size: 20px;
+        font-weight: bold;
+
+    }
