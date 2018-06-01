@@ -1,0 +1,54 @@
+
+
+.grey{
+    background-color: lightgrey;
+    width: 100%;
+    height: 90px;
+    padding: 10px;
+    margin: 0px;
+}
+.li-bl-box{
+    background-color: rgb(80, 167, 248);
+    width:70px;
+    height: 70px;
+    margin: 0px 0px 5px 0px;
+}
+.white-space{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 300px;
+    padding: 60px 60px 60px 60px;
+    margin: 0px;
+}
+.blue-line{
+    background-color: rgb(65, 110, 161);
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin: 0px;
+}
+.green-line{
+    background-color: rgb(49, 168, 204);
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin: 0px;
+}
+.yellowish{
+    background-color: rgb(139, 243, 170);
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin: 0px;
+}
+.yellow{
+    background-color: rgb(245, 230, 21);
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin: 0px
+}
+.words{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
