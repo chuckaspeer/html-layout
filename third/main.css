@@ -19,6 +19,7 @@
     height: 300px;
     padding: 60px 60px 60px 60px;
     margin: 0px;
+    
 }
 .blue-line{
     background-color: rgb(65, 110, 161);
@@ -27,6 +28,7 @@
     padding: 10px;
     margin: 0px;
 }
+
 .green-line{
     background-color: rgb(49, 168, 204);
     width: 100%;
